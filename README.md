@@ -8,12 +8,10 @@ $ cd OwnerAddress_NodeListner
 $ npm install 
 ```
 
-### 3. Start Ganache
-
-### 4. Smart Contracts
+### 3. Smart Contracts
 `Deploy smart contract on rinkeby testnet from truffle or directly from remix`
 
-### 5. Run EventListner Script
+### 4. Run EventListner Script
 Script/EventListner.js
 Add your deploy address
 Add rinkeby provide link 
@@ -29,7 +27,7 @@ then run the update document function this will automatically update the databas
 
 
 
-### 6. Run Script OwnerAddress
+### 5. Run Script OwnerAddress
 
 `$ node ./OwnerAddr_Scripts/onlyTransferAddr.js`
 
